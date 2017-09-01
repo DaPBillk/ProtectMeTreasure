@@ -53,8 +53,7 @@ Below is a list of all the permissions you can change.
 
 
 
-<br />
-<br />
+
  - bot
 	 - **message**
  		- link
